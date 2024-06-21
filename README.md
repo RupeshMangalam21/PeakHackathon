@@ -114,3 +114,6 @@ Blockchain Developer: Writes smart contracts and ensures blockchain integration.
 Resources:
 Tools: VS Code, Git/GitHub, Web3.js, barcode/QR code scanning libraries (e.g., QuaggaJS).
 Platforms: Ethereum blockchain, AWS or Heroku for hosting.
+
+https://www.scalingparrots.com/en/blockchain-hash-what-is-it/#:~:text=A%20Blockchain%20hash%20is%20used%20to%20create%20a%20digital%20fingerprint,t%20match%20the%20original%20data.
+https://peak-hackathon.devfolio.co/
